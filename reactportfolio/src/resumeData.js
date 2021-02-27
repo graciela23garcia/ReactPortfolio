@@ -64,27 +64,32 @@ let resumeData = {
   ],
   "portfolio": [
     {
-      "name": "project1",
-      "description": "mobileapp",
-      "imgurl": "images/portfolio/phone.jpg"
+      "name": "Heroku",
+      "description": "Pan-Damnit",
+      "href": "https://pan-dammit.herokuapp.com/welcome",
+      "imgurl": "images/pandamnit.jpg"
     },
     {
-      "name": "project2",
-      "description": "mobileapp",
-      "imgurl": "images/portfolio/project.jpg"
+      "name": "Heroku",
+      "description": "Note Taker",
+      "href": "https://gracielanotetaker.herokuapp.com/",
+      "imgurl": "images/note.jpg"
     },
     {
-      "name": "project3",
-      "description": "mobileapp",
-      "imgurl": "images/portfolio/project2.png"
+      "name": "Heroku",
+      "description": "Google Book Search",
+      "href": "https://gracielanotetaker.herokuapp.com/",
+      "imgurl": "images/google.jpg"
     },
     {
-      "name": "project4",
-      "description": "mobileapp",
-      "imgurl": "images/portfolio/phone.jpg"
-    }
+      "name": "Heroku",
+      "description": "Fitness Tracker",
+      "href": "https://fitnesshw17.herokuapp.com/",
+      "imgurl": "images/fitness.jpg"
+    },
+
   ],
-  "testimonials": [
+  "inspire": [
     {
       "description": "This is a sample testimonial",
       "name": "Some technical guy"
