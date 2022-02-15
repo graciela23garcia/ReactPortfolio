@@ -17,7 +17,7 @@ let resumeData = {
       "className": "fa fa-github"
     },
   ],
-  "aboutme": "After completing this program I intend to further my knowledge in data structures and more react-base libraries that will ensure my continuing success in this field.  ",
+  "aboutme": "As Web Developer I am responsible for the coding of a website according to a company's specifications. As the role takes into consideration user experience and function, a certain level of both graphic design and computer programming is necessary.",
   "address": "Spokane, WA",
   "website": "graciela@gmail.com",
   "education": [
@@ -32,9 +32,9 @@ let resumeData = {
   "work": [
     {
       "CompanyName": "Leggari",
-      "specialization": "LMS Production",
-      "MonthOfLeaving": "Jan",
-      "YearOfLeaving": "2018",
+      "specialization": "Technical Project Manager",
+      "MonthOfLeaving": "Since Jan",
+      "YearOfLeaving": "2022",
       "Achievements": "Currently Employment"
     }
   ],
